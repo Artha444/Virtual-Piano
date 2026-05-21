@@ -19,3 +19,10 @@ Play piano notes directly in the browser using mouse clicks or keyboard input �
 ## 🖼️ Preview
 
 ![Preview](./Screenshot/virtual_piano.png)
+
+## ⚙️ Installation
+
+Clone this repository:
+
+```bash
+git clone https://github.com/Artha444/Virtual-Piano.git
